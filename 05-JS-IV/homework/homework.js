@@ -164,13 +164,13 @@ return this.precio-(this.precio*this.porcentajeDeDescuento);
   }
   return producto;
 }
-const producto={
-  precio: 20, 
-  porcentajeDeDescuento: 0.2,
-  calcularPrecioDescuento: function(){
-this.precio - precio *porcentajeDeDescuento;
-  }
-}
+//const producto={
+ // precio: 20, 
+ // porcentajeDeDescuento: 0.2,
+ // calcularPrecioDescuento: function(){
+//this.precio - precio *porcentajeDeDescuento;
+ // }
+//}
 
 // No modificar nada debajo de esta línea
 // --------------------------------
